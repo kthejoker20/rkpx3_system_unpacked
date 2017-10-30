@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "众易畅">
+	<item name = "AppVersion" value="2016052501-Ver1.0.0.0268"></item>
+	<item name = "CustomerNum" value="9"></item>
+	<item name = "UIStyleStrList" value="专用界面"></item>
+	<item name = "UIStyleNumList" value="13"></item>
+	<item name = "NavBarStypeStrList" value="专用主题"></item>
+	<item name = "NavBarStypeNumList" value="11"></item>
+</customer>

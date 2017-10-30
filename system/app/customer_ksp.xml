@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "卡斯普">
+	<item name = "AppVersion" value="2016092701-Ver1.0.0.0300en-old wifi"></item>
+	<item name = "CustomerNum" value="4"></item>
+	<item name = "UIStyleStrList" value="专属界面"></item>
+	<item name = "UIStyleNumList" value="8"></item>
+	<item name = "NavBarStypeStrList" value="专属主题"></item>
+	<item name = "NavBarStypeNumList" value="6"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+	<item name = "EnableEnglishVer" value="1"></item>
+</customer>

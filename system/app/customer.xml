@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "长河伟业">
+	<item name = "AppVersion" value="2017011601-Ver1.2.1.chwy.en.860B"></item>
+	<item name = "CustomerNum" value="14"></item>
+	<item name = "UIStyleStrList" value="专属界面"></item>
+	<item name = "UIStyleNumList" value="19"></item>
+	<item name = "NavBarStypeStrList" value="专属主题"></item>
+	<item name = "NavBarStypeNumList" value="17"></item>
+	<item name = "Mainboard860Enable" value="1"></item>
+	<item name = "EnableEnglishVer" value="1"></item>
+	<item name = "Mainboard860Enable" value="1"></item>
+</customer>

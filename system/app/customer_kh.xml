@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "航辉">
+	<item name = "AppVersion" value="2016040101-Ver1.0.0.0240"></item>
+	<item name = "CustomerNum" value="6"></item>
+	<item name = "UIStyleStrList" value="经典磨砂"></item>
+	<item name = "UIStyleNumList" value="0"></item>
+	<item name = "NavBarStypeStrList" value="经典主题"></item>
+	<item name = "NavBarStypeNumList" value="0"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+</customer>

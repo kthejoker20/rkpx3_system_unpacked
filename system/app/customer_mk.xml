@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "摩卡">
+	<item name = "AppVersion" value="2016050401-Ver1.0.0.0253"></item>
+	<item name = "CustomerNum" value="8"></item>
+	<item name = "UIStyleStrList" value="经典磨砂"></item>
+	<item name = "UIStyleNumList" value="0"></item>
+	<item name = "NavBarStypeStrList" value="经典主题"></item>
+	<item name = "NavBarStypeNumList" value="0"></item>
+</customer>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "奥车凯">
+	<item name = "AppVersion" value="2016080901-Ver1.0.0.0252"></item>
+	<item name = "CustomerNum" value="1"></item>
+	<item name = "UIStyleStrList" value="经典磨砂,黑色炫酷"></item>
+	<item name = "UIStyleNumList" value="0,1"></item>
+	<item name = "NavBarStypeStrList" value="经典主题,蓝色主题"></item>
+	<item name = "NavBarStypeNumList" value="0,1"></item>
+	<item name = "EnableEnglishVer" value="1"></item>
+</customer>

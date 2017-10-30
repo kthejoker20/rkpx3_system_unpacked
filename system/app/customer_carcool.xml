@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "车酷时代">
+	<item name = "AppVersion" value="2016122601-Ver1.2.1.carcool.860.en"></item>
+	<item name = "CustomerNum" value="2"></item>
+	<item name = "UIStyleStrList" value="Classic matte,Cold black,Diamond lattice"></item>
+	<item name = "UIStyleNumList" value="0,1,5"></item>
+	<item name = "NavBarStypeStrList" value="Classic style,Red style,Diamond style"></item>
+	<item name = "NavBarStypeNumList" value="0,2,5"></item>
+	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
+	<item name = "EnableEnglishVer" value="1"></item>
+</customer>
