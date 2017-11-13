@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "奥车凯">
+	<item name = "AppVersion" value="201608060A-Ver1.0.0.OCCar_Special"></item>
+	<item name = "CustomerNum" value="1"></item>
+	<item name = "UIStyleStrList" value="经典磨砂,黑色炫酷,OCCAR专用"></item>
+	<item name = "UIStyleNumList" value="0,1,13"></item>
+	<item name = "NavBarStypeStrList" value="经典主题,蓝色主题,OCCAR主题"></item>
+	<item name = "NavBarStypeNumList" value="0,1,13"></item>
+	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+	<item name = "FullModeEnable" value="1"></item>
+	<item name = "OcarSpecialVer" value="1"></item>
+	<item name = "CarTypeNumList" value="0,11,12,14,20,21,25,49,68,69,70,71,111,112"></item>
+</customer>

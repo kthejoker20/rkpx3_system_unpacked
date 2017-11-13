@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "野马">
+	<item name = "AppVersion" value="201605310A-Ver1.0.0.YEMA"></item>
+	<item name = "CustomerNum" value="6"></item>
+	<item name = "UIStyleStrList" value="野马专用"></item>
+	<item name = "UIStyleNumList" value="6"></item>
+	<item name = "NavBarStypeStrList" value="经典主题"></item>
+	<item name = "NavBarStypeNumList" value="0"></item>
+	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+	<item name = "CarTypeNumList" value="0,45,46"></item>
+</customer>

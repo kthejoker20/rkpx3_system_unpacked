@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "车酷时代">
+	<item name = "AppVersion" value="20170626A-Ver3.0.1.carcool_860_EN"></item>
+	<item name = "CustomerNum" value="2"></item>
+	<item name = "UIStyleStrList" value="Classics UI,Black UI,VW UI,Rhomboids UI,Cyanine UI"></item>
+	<item name = "UIStyleNumList" value="0,1,3,5,9"></item>
+	<item name = "NavBarStypeStrList" value="Classics Theme,Red Theme,VW Theme,Rhomboids Theme,Cyanine Theme"></item>
+	<item name = "NavBarStypeNumList" value="0,2,4,5,9"></item>
+	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+	<item name = "SR7UIEnable" value="0"></item>
+	<item name = "YemaUIEnable" value="0"></item>
+	<item name = "CarTypeNumList" value="0,87,88,141"></item>
+</customer>
