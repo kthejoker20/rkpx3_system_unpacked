@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "车酷时代">
+	<item name = "AppVersion" value="201607160A-Ver1.0.0.carcool_SR7"></item>
+	<item name = "CustomerNum" value="2"></item>
+	<item name = "UIStyleStrList" value="SR7界面"></item>
+	<item name = "UIStyleNumList" value="11"></item>
+	<item name = "NavBarStypeStrList" value="SR7主题"></item>
+	<item name = "NavBarStypeNumList" value="11"></item>
+	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+	<item name = "SR7UIEnable" value="1"></item>
+	<item name = "YemaUIEnable" value="0"></item>
+	<item name = "CarTypeNumList" value="0,76"></item>
+</customer>

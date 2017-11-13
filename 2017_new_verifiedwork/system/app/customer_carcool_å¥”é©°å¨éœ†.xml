@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customer name = "车酷时代">
+	<item name = "AppVersion" value="20170110A-Ver2.0.0.carcoolE-860B-BC"></item>
+	<item name = "CustomerNum" value="2"></item>
+	<item name = "UIStyleStrList" value="经典磨砂,黑色炫酷,菱格界面,青蓝界面,奔驰UI"></item>
+	<item name = "UIStyleNumList" value="0,1,5,9,22"></item>
+	<item name = "NavBarStypeStrList" value="经典主题,红色主题,菱格主题,青蓝主题,奔驰主题"></item>
+	<item name = "NavBarStypeNumList" value="0,2,5,9,22"></item>
+	<item name = "ATSAutoSwitchCanAUX" value="1"></item>
+	<item name = "XFYCanBoxEnable" value="0"></item>
+	<item name = "SR7UIEnable" value="0"></item>
+	<item name = "YemaUIEnable" value="0"></item>
+	<item name = "CarTypeNumList" value="0,143"></item>
+</customer>
